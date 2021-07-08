@@ -1,5 +1,5 @@
 # MATLAB code for EBL instrument 
-Use this code on a computer connected to an EBL system in order to carry out our experiment. 
+This code was developed with the help of Mattias Åstrand. It should be used on a computer connected to a Voyager by Raith EBL system in order to carry out our experiment. 
 
 For the code to function, it is necessary to have downloaded the Raith_GDSII MATLABtoolkit. It is available on https://github.com/nrc-cnrc/Raith_GDSII
 
